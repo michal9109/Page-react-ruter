@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Page-react-ruter/static/css/main.c82f84f2.chunk.css",
+    "main.js": "/Page-react-ruter/static/js/main.cf0cd10a.chunk.js",
+    "main.js.map": "/Page-react-ruter/static/js/main.cf0cd10a.chunk.js.map",
+    "runtime-main.js": "/Page-react-ruter/static/js/runtime-main.e9801f79.js",
+    "runtime-main.js.map": "/Page-react-ruter/static/js/runtime-main.e9801f79.js.map",
+    "static/js/2.1c98e12b.chunk.js": "/Page-react-ruter/static/js/2.1c98e12b.chunk.js",
+    "static/js/2.1c98e12b.chunk.js.map": "/Page-react-ruter/static/js/2.1c98e12b.chunk.js.map",
+    "index.html": "/Page-react-ruter/index.html",
+    "precache-manifest.c10410930934de88e5bc1b2cd5df8761.js": "/Page-react-ruter/precache-manifest.c10410930934de88e5bc1b2cd5df8761.js",
+    "service-worker.js": "/Page-react-ruter/service-worker.js",
+    "static/css/main.c82f84f2.chunk.css.map": "/Page-react-ruter/static/css/main.c82f84f2.chunk.css.map",
+    "static/js/2.1c98e12b.chunk.js.LICENSE.txt": "/Page-react-ruter/static/js/2.1c98e12b.chunk.js.LICENSE.txt",
+    "static/media/contact.jpg": "/Page-react-ruter/static/media/contact.60db013a.jpg",
+    "static/media/home1.jpg": "/Page-react-ruter/static/media/home1.db456796.jpg",
+    "static/media/products.jpg": "/Page-react-ruter/static/media/products.bc9df596.jpg",
+    "static/media/register.jpg": "/Page-react-ruter/static/media/register.2f50d4cc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9801f79.js",
+    "static/js/2.1c98e12b.chunk.js",
+    "static/css/main.c82f84f2.chunk.css",
+    "static/js/main.cf0cd10a.chunk.js"
+  ]
+}
