@@ -11,7 +11,11 @@ const Header = () => {
   return (
     <>
       <Switch>
-        <Route path="/" exact render={() => <img src={img1} alt="Suits" />} />
+        <Route
+          path="/Page-react-ruter"
+          exact
+          render={() => <img src={img1} alt="Suits" />}
+        />
         <Route
           path="/products"
           render={() => <img src={img2} alt="clothes in the store" />}
