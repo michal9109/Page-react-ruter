@@ -12,7 +12,7 @@ const Page = () => {
   return (
     <>
       <Switch>
-        <Route path="/" exact component={HomePage} />
+        <Route path="/Page-react-ruter" exact component={HomePage} />
         <Route path="/products" component={ProductListPage} />
         <Route path="/product/:id" component={ProductPage} />
         <Route path="/contact" component={ContactPage} />

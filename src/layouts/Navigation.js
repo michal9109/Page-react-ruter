@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 import "../styles/Navigation.css";
 
 const list = [
-  { name: "Home", path: "/", exact: true },
+  { name: "Home", path: "/Page-react-ruter", exact: true },
   { name: "Product", path: "/products" },
   { name: "Contact", path: "/contact" },
   { name: "Sign In", path: "/login" },
