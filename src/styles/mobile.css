@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px) {
+  main {
+    flex-direction: column;
+  }
+  .main > ul {
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+  }
+  nav.main a:hover {
+    transform: none;
+  }
+}

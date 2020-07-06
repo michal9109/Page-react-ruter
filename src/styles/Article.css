@@ -1,0 +1,13 @@
+.home__article {
+  display: flex;
+  flex-flow: column;
+  padding: 0 0 10px 0;
+}
+
+.home__article span {
+  font-size: 12px;
+  padding: 10px 0;
+}
+.home__article p {
+  text-align: justify;
+}
